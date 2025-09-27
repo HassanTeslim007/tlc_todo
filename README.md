@@ -136,5 +136,4 @@ lib/
 ## Testing Approach
 While not implemented in this demo, the structure supports easy testing:
 - Unit tests for models and services
-- Widget tests for individual components
 - Integration tests for user flows
